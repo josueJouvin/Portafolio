@@ -1,0 +1,39 @@
+{
+    "proyectos": [
+      {
+        "id": 1,
+        "image": "../src/img/joblink.webp",
+        "name": "Job Links",
+        "description": "Es una aplicación que te permite agregar y almacenar enlaces de trabajos a los que te hayas postulado o que te interesen, todo en un solo lugar.",
+        "tecnologias": "React, JavaScript, Tailwind css, API, LocalStorage, CRUD, Vite.",
+        "demoLink": "https://joblinks.netlify.app/",
+        "repoLink": "https://github.com/josueJouvin/job-Links"
+      },
+      {
+        "id": 2,
+        "image": "../src/img/weatherapp.webp",
+        "name": "Weather App",
+        "description": "Aplicación meteorológica la cual entrega diferentes datos como clima actual, humedad, visibilidad, etc.",
+        "tecnologias": "JavaScript, Tailwind css, REST API, Responsive web design.",
+        "demoLink": "https://meweatherapp.netlify.app/",
+        "repoLink": "https://github.com/josueJouvin/weatherApp"
+      },
+      {
+        "id": 3,
+        "image": "../src/img/cotizadorcripto.webp",
+        "name": "Cotizador de Criptomonedas",
+        "description": "Aplicación construida para mostrar información en tiempo real sobre criptomonedas. Permite realizar un seguimiento de los precios, volúmenes de operaciones y cambios de las criptomonedas más importantes.",
+        "tecnologias": "React, Styled-Components, RESTful API, Hooks.",
+        "demoLink": "https://criptoreactstyled.netlify.app/",
+        "repoLink": "https://github.com/josueJouvin/cotizadorCripto-React"
+      },
+      {
+        "id": 4,
+        "image": "../src/img/Collageproyectos.webp",
+        "name": "Otros Proyectos",
+        "description": "Para ver más proyectos y pruebas técnicas resueltas, visita mi repositorio en GitHub. Allí encontrarás una variedad de proyectos que demuestran mi experiencia y habilidades. Además, podrás explorar los Retos de Código que he resuelto, donde enfrento desafíos y presento soluciones técnicas.",
+        "demoLink": "",
+        "repoLink": "https://github.com/josueJouvin"
+      }
+    ]
+  }
