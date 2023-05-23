@@ -404,7 +404,7 @@ svg{
   }
 }
 .sobre-mi-imagen {
-  background-image: url(/src/img/sobremi.webp);
+  background-image: url(/img/sobremi.webp);
   background-size: cover;
   background-position: center;
   position: absolute;
