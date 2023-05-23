@@ -3,42 +3,42 @@
       {
         "id": 1,
         "nombre": "HTML",
-        "logo": "src/icons/html.svg"
+        "logo": "/icons/html.svg"
       },
       {
         "id": 2,
         "nombre": "CSS",
-        "logo": "src/icons/css.svg"
+        "logo": "/icons/css.svg"
       },
       {
         "id": 3,
         "nombre": "Bootstrap",
-        "logo": "src/icons/bootstrap.svg"
+        "logo": "/icons/bootstrap.svg"
       },
       {
         "id": 4,
         "nombre": "Tailwind css",
-        "logo": "src/icons/tailwind.svg"
+        "logo": "/icons/tailwind.svg"
       },
       {
         "id": 5,
         "nombre": "JavaScript",
-        "logo": "src/icons/javascript.svg"
+        "logo": "/icons/javascript.svg"
       },
       {
         "id": 6,
         "nombre": "React",
-        "logo": "src/icons/react.svg"
+        "logo": "/icons/react.svg"
       },
       {
         "id": 7,
         "nombre": "Visual Studio",
-        "logo": "src/icons/vscode.svg"
+        "logo": "/icons/vscode.svg"
       },
       {
         "id": 8,
         "nombre": "Git",
-        "logo": "src/icons/git.svg"
+        "logo": "/icons/git.svg"
       }
     ]
   }

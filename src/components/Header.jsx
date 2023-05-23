@@ -4,9 +4,9 @@ const Header = ({headerRef}) => {
     <header ref={headerRef} className="header">
       <div className="container header-container">
         <div className="img-container">
-          <img className="img-perfil" src="./src/pictures/foto-portfolio.png" alt="josue jouvin" />
+          <img className="img-perfil" src="/pictures/foto-portfolio.png" alt="josue jouvin" />
           <div className="img-overlay">
-            <img className="img-dots" src="./src/pictures/side-dots.png" alt="josue jouvin" />
+            <img className="img-dots" src="/pictures/side-dots.png" alt="josue jouvin" />
           </div>
         </div>
         <div className="header-descripcion">
