@@ -24,8 +24,8 @@
         "name": "Soccer Team Information",
         "description": "Aplicación web SPA que utiliza Wouter para el enrutamiento y la API de Api-Football. Permite a los usuarios buscar equipos de fútbol por nombre o país y proporciona información detallada sobre los equipos, incluyendo su descripción y los jugadores pertenecientes.",
         "tecnologias": "React, React Bootstrap, RESTful API, Hooks, Wouter.",
-        "demoLink": "https://criptoreactstyled.netlify.app/",
-        "repoLink": "https://github.com/josueJouvin/cotizadorCripto-React"
+        "demoLink": "https://futbolito.netlify.app/",
+        "repoLink": "https://github.com/josueJouvin/TeamsInformation"
       },
       {
         "id": 4,
