@@ -285,6 +285,10 @@ svg{
     margin: 0 0 5rem 0;
   }
 }
+.card_proyecto img{
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
 .card_titulo{
   margin: 1.5rem 0 2rem 0;
   font-size: 2.95rem;

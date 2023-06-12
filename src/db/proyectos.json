@@ -20,16 +20,16 @@
       },
       {
         "id": 3,
-        "image": "/img/cotizadorcripto.webp",
-        "name": "Cotizador de Criptomonedas",
-        "description": "Aplicación construida para mostrar información en tiempo real sobre criptomonedas. Permite realizar un seguimiento de los precios, volúmenes de operaciones y cambios de las criptomonedas más importantes.",
-        "tecnologias": "React, Styled-Components, RESTful API, Hooks.",
+        "image": "/img/soccerTeam.gif",
+        "name": "Soccer Team Information",
+        "description": "Aplicación web SPA que utiliza Wouter para el enrutamiento y la API de Api-Football. Permite a los usuarios buscar equipos de fútbol por nombre o país y proporciona información detallada sobre los equipos, incluyendo su descripción y los jugadores pertenecientes.",
+        "tecnologias": "React, React Bootstrap, RESTful API, Hooks, Wouter.",
         "demoLink": "https://criptoreactstyled.netlify.app/",
         "repoLink": "https://github.com/josueJouvin/cotizadorCripto-React"
       },
       {
         "id": 4,
-        "image": "/img/Collageproyectos.webp",
+        "image": "/img/cotizadorcripto.webp",
         "name": "Otros Proyectos",
         "description": "Para ver más proyectos y pruebas técnicas resueltas, visita mi repositorio en GitHub. Allí encontrarás una variedad de proyectos que demuestran mi experiencia y habilidades. Además, podrás explorar los Retos de Código que he resuelto, donde enfrento desafíos y presento soluciones técnicas.",
         "demoLink": "",
